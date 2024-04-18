@@ -1,0 +1,146 @@
+
+
+}
+ul{
+	margin: 0px;
+	padding: 0px;
+}
+.my_menu{
+	position: absolute;
+	width: 100%;
+	height:auto;
+	background-color:lightseagreen;
+
+}
+
+
+.menu li{
+	list-style: none;
+	width: 120px;
+	height: 50px;
+	background-color:lightseagreen;
+	margin-left: 5px;
+	text-align: center;
+	line-height:50px;
+	float: left;
+
+}
+
+.menu li:hover{
+	background-color: darkcyan;
+
+}
+.menu li a{
+	color: white;
+	display: block;
+	text-decoration: none;
+}
+
+
+.logo{
+	width: 55px;
+}
+.logo_li:hover{
+	background-color: lightseagreen!important;
+}
+.menu ul li{
+	margin: 0px;
+}
+.menu ul {
+	display: none;
+}
+.menu li:hover ul{
+	display: block;
+}
+
+
+#banner img{
+	margin-top:50px;
+	width: 100%;
+}
+
+#why_choose{
+
+	width: 100%;
+	text-align: center;
+}
+
+#why_choose h1{
+	margin: 0 auto;
+	width: 200px;
+	text-align: center;
+	font-size: 30px;
+	color: red;
+	border-bottom: 2px solid red;
+
+
+}
+
+
+.div_section1{
+	width: 15%;
+	height: 300px;
+	margin: 30px;
+	float:left;
+}
+
+.icon{
+	width: 120px;
+	height: 120;
+	border: 1px solid dimgray;
+	margin: 10px auto;
+	line-height: 120px;
+	font-size: 50px;
+	background-color: darkred;
+	color: white;
+	border-redius:5000px;
+	transition-duration: 0.3s;
+
+
+}
+
+.icon:hover{
+	font-size: 40px;
+}
+
+	
+body{
+	background-image: url("Free  Wallpaper, Knowledge, Contest Background Images, Color Creative Silhouette Knowledge Contest Activity Poster Background Material Photo Background PNG and Vectors.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:AUTO;
+}
+.container{
+	background-color: rgb(0, 0, 0, .23);
+	width: 310px;
+	height: 350px;
+	text-align: center;
+	border-radius: 8px;
+	margin-left:38%;
+	margin-top: 15%;
+}
+
+.container .heads{
+	margin-top:60px
+	color:white !important;
+	font-size: 20px;
+	position: relative;
+	
+}
+form input{
+	margin-top:20px;
+	width: 260px;
+	font-size: 19px;
+	border: none;
+	outline: none;
+}
+
+form button{
+	width: 260px;
+	height: 38px;
+	background-color:blue;
+	color: whitesmoke;
+	font-size: 21px;
+	border: none;
+	border-radius: 2px;
+}
